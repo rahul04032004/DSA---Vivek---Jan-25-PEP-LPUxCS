@@ -1,3 +1,12 @@
+/*Write a C++ program that performs various operations on an array, including reversal, checking if the array is sorted, and finding the maximum and minimum elements. The program should:
+
+Initialize an array of a fixed size (e.g., 10) and allow the user to populate it with integer values.
+Implement the following functionalities:
+Reverse the array and display the reversed array.
+Check if the array is sorted in ascending order and display an appropriate message.
+Find and display the maximum and minimum elements in the array.
+Allow the user to display the original array at any point.*/
+
 #include <iostream>
 using namespace std;
 
